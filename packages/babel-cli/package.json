@@ -16,7 +16,7 @@
     "commander": "^2.8.1",
     "convert-source-map": "^1.1.0",
     "fs-readdir-recursive": "^0.1.0",
-    "glob": "^5.0.5",
+    "glob": "^9.0.0",
     "lodash": "^3.2.0",
     "log-symbols": "^1.0.2",
     "output-file-sync": "^1.1.0",
